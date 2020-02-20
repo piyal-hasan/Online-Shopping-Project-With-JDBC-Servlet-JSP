@@ -1,0 +1,2 @@
+This is a simple Online SHopping projet, using Java servlet, JSP, JDBC.
+Here are some demo pictures are given :)
